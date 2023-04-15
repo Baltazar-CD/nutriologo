@@ -1210,7 +1210,7 @@ img {
     height: 75px;
     -webkit-transition: var(--transition);
     transition: var(--transition);
-    background-color: #f3fcec;
+    background-color: #ECF3FA;
     border-bottom-left-radius: 400px
 }
 .banner-bottom-card i {
