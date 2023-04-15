@@ -2617,7 +2617,7 @@ img {
     height: auto
 }
 .services-area {
-    background-color: #f4fbf4
+    background-color: #F2F5F8
 }
 .services-card {
     margin-bottom: 30px;
@@ -2822,7 +2822,7 @@ img {
     margin-bottom: 30px
 }
 .service-card-bg {
-    background-color: #f4fbf4
+    background-color: #F2F5F8
 }
 .work-card {
     margin-bottom: 30px;
@@ -2907,7 +2907,7 @@ img {
     right: 0;
     width: 50%;
     height: 100%;
-    background-color: #f4fbf4;
+    background-color: #F2F5F8;
     opacity: .7
 }
 .choose-area::after {
@@ -3330,7 +3330,7 @@ img {
     margin-top: 25px
 }
 .pricing-card:hover {
-    background-color: #f4fbf4
+    background-color: #F2F5F8
 }
 .pricing-card:hover::before {
     height: 0;
