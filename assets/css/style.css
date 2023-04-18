@@ -1210,7 +1210,7 @@ img {
     height: 75px;
     -webkit-transition: var(--transition);
     transition: var(--transition);
-    background-color: #f3fcec;
+    background-color: #E1F2FF;
     border-bottom-left-radius: 400px
 }
 .banner-bottom-card i {
@@ -2617,7 +2617,7 @@ img {
     height: auto
 }
 .services-area {
-    background-color: #f4fbf4
+    background-color: #F0F9FF
 }
 .services-card {
     margin-bottom: 30px;
@@ -2834,7 +2834,7 @@ img {
     margin-bottom: 30px
 }
 .service-card-bg {
-    background-color: #f4fbf4
+    background-color: #F0F9FF
 }
 .work-card {
     margin-bottom: 30px;
@@ -2919,7 +2919,7 @@ img {
     right: 0;
     width: 50%;
     height: 100%;
-    background-color: #f4fbf4;
+    background-color: #F0F9FF;
     opacity: .7
 }
 .choose-area::after {
@@ -3342,7 +3342,7 @@ img {
     margin-top: 25px
 }
 .pricing-card:hover {
-    background-color: #f4fbf4
+    background-color: #F0F9FF
 }
 .pricing-card:hover::before {
     height: 0;
@@ -5579,7 +5579,7 @@ img {
     height: 50px;
     color: var(--bodyColor);
     border: none;
-    background-color: #f4fbf4;
+    background-color: #F0F9FF;
     font-size: 15px;
     padding: 15px 20px;
     width: 100%;
