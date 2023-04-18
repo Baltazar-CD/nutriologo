@@ -618,8 +618,8 @@ img {
     -webkit-transform: scaleY(1);
     transform: scaleY(1)
 }
-.desktop-nav-one {
-    background-color: #f3f7e9
+{
+    background-color: #E8F6FF
 }
 .mobile-responsive-nav {
     display: none
